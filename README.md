@@ -6,7 +6,7 @@ Delphi | [Ir a sección](https://github.com/gonzaleau/Code_for_Delphi) | Descarg
 Java | Sección sin contenido |  Descargar/Clonar
 JavaScript | Sección sin contenido |  Descargar/Clonar
 PHP | Sección sin contenido |  Descargar/Clonar
-sitios webs | Sección sin contenido |  Muestras
+sitios webs | Sección sin contenido |  Nada
 
 You can use the [editor on GitHub](https://github.com/gonzaleau/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
