@@ -1,12 +1,12 @@
 ## Secciones del portafolio
 
-Código | Enlace
------------- | -------------
-Delphi | [Ir a sección](https://github.com/gonzaleau/Code_for_Delphi)
-Java | Sección sin contenido
-JavaScript | Sección sin contenido
-PHP | Sección sin contenido
-sitios webs | Sección sin contenido
+Código | Sección | Descarga
+------------ | ------------- | -------------
+Delphi | [Ir a sección](https://github.com/gonzaleau/Code_for_Delphi) | Descargar
+Java | Sección sin contenido |  Descargar
+JavaScript | Sección sin contenido |  Descargar
+PHP | Sección sin contenido |  Descargar Descargar
+sitios webs | Sección sin contenido |  Descargar
 
 You can use the [editor on GitHub](https://github.com/gonzaleau/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
