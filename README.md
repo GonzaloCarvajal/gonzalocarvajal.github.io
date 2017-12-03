@@ -3,7 +3,9 @@
 Código | Enlace
 ------------ | -------------
 Delphi | [Ir a sección](https://github.com/gonzaleau/Code_for_Delphi)
-Java | Content in the second column
+Java | Sección sin contenido
+JavaScript | Sección sin contenido
+PHP | Sección sin contenido
 
 You can use the [editor on GitHub](https://github.com/gonzaleau/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
